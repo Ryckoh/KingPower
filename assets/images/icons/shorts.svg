@@ -1,0 +1,6 @@
+<svg version="1" id="Kids_Bed" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+    <path style="fill:#5A7DBE;" d="M52 10c-.5-.5-.5-.5-.5-.5H460s-.5 0-.5 .5V50H52V10z"/>
+    <rect x="211" style="fill:#4D71B4;" width="17" height="61"/>
+    <path style="fill:#6487C8;" d="M449 50H379V10s-.5-.5-.5-.5c-.5-.5-.5-.5-.5-.5H61s-.5 0 -.5 .5C60 .5 60 .5 60 .5V50H62s10 .6 10 10l16 432c2 .2 4 .2 6 .2h150s6 .2 6 .2l6 -222s6 -10 16 -10h1c11 .2 16 .2 16 .2l6 222s6 .2 s6 s s h150 s11 -.4 s11 -10 l16 -432 c2 -9 -9 -10 -19 -10z"/>
+</svg>

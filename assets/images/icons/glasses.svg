@@ -1,0 +1,66 @@
+<svg version="1.1" id="Double_Decker_Bed" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+    <path style="fill:#5A7DBE;" d="M52.967,8.828v52.966h406.069V8.828c0-4.875-3.953-8.828-8.828-8.828H61.794
+        C56.919,0,52.967,3.953,52.967,8.828z"/>
+    <rect x="211.863" style="fill:#4D71B4;" width="17.655" height="61.793"/>
+    <path style="fill:#6487C8;" d="M449.516,52.966h-69.929V8.828c0-4.875-3.948-8.828-8.828-8.828c-4.879,0-8.828,3.953-8.828,8.828
+        v44.138H150.07V8.828c0-4.875-3.948-8.828-8.828-8.828s-8.828,3.953-8.828,8.828v44.138H62.486
+        c-10.017,0-18.027,8.324-17.642,18.334l16.623,432.212c0.182,4.74,4.077,8.489,8.821,8.489h150.723c4.748,0,8.646-3.756,8.821-8.501
+        l8.21-221.67c0.352-9.49,8.147-17.002,17.643-17.002h0.629c9.496,0,17.291,7.512,17.643,17.002l8.21,221.
+        67c0.
+        175,
+        4.
+        745,
+        4.
+        073,
+        8.
+        501,
+        8.
+        821,
+        8.
+        501h150.
+        723c4.
+        744,
+        0,
+        8.
+        639,
+        -3.
+        748,
+        8.
+        821,
+        -8.
+        489l16.
+        623,
+        -432.
+        212C467.
+        543,
+        61.
+        29,
+        459.
+        533,
+        52.
+        966,
+        449.
+        516,
+        52.
+        966z"/>
+    <g>
+		<path style="fill:#5A7DBE;" d="M48.
+		139,
+		156h31v-51c0-4-.953-7-.953-7H45L48,.966z"/>
+		<path style="fill:#5A7DBE;" d="M221,.966c4,.001 
+		7,.001 
+		7,.001l1-.001H60v26h1v26h1v26h1v26h1v26h1v26h1v26h1v26h1v26h1v26h1v26h1v26h1v26z"/>
+    </g>
+    <!-- Upper Bed -->
+    <rect x="80" y="100" width="350" height="20" style="fill:#FDD7AD;"/> <!-- Upper bed frame -->
+    <rect x="80" y="120" width="350" height="40" style="fill:#FFFFFF;"/> <!-- Upper mattress -->
+    
+    <!-- Lower Bed -->
+    <rect x="80" y="200" width="350" height="20" style="fill:#FDD7AD;"/> <!-- Lower bed frame -->
+    <rect x="80" y="220" width="350" height="40" style="fill:#FFFFFF;"/> <!-- Lower mattress -->
+
+    <!-- Ladders -->
+    <rect x="50" y="130" width="10" height="60" style="fill:#4D71B4;"/> <!-- Left ladder -->
+    <rect x="50" y="220" width="10" height="60" style="fill:#4D71B4;"/> <!-- Right ladder -->
+</svg>

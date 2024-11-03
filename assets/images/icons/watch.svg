@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 504 504" style="enable-background:new 0 0 504 504;" xml:space="preserve">
+
+    <!-- Table Top -->
+    <rect x="100" y="200" width="300" height="20" style="fill:#8B4513;"/> <!-- Tabletop -->
+
+    <!-- Table Legs -->
+    <rect x="120" y="220" width="20" height="80" style="fill:#654321;"/> <!-- Left leg -->
+    <rect x="360" y="220" width="20" height="80" style="fill:#654321;"/> <!-- Right leg -->
+    <rect x="120" y="220" width="20" height="80" style="fill:#654321;"/> <!-- Left leg -->
+    <rect x="360" y="220" width="20" height="80" style="fill:#654321;"/> <!-- Right leg -->
+
+    <!-- Additional Details (optional) -->
+    <rect x="140" y="210" width="220" height="10" style="fill:#D2691E;"/> <!-- Table detail -->
+
+</svg>
