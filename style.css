@@ -72,7 +72,8 @@
 }
 
 #products1 .pro .des {
-    text-align:start; 
+    text-align:start;
+    padding:10px 0;
 }
 
 /* Text styles */
