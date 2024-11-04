@@ -46,7 +46,6 @@
     box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.2); 
     margin: 15px; /* Adjusted margin for spacing */
     transition: 0.2s ease; 
-    position: relative;
 }
 
 /* Hover effect */
