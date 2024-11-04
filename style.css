@@ -68,7 +68,7 @@
 #products1 .pro img {
     width: auto; /* Maintain aspect ratio */
     max-width:100%; /* Ensure images fit within the container */
-    border-radius: 20px;
+/*     border-radius: 20px; */
 }
 
 #products1 .pro .des {
