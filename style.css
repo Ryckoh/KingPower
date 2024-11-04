@@ -21,8 +21,6 @@
 
     --fs-1: 1.563rem;
     --fs-2: 1.375rem;
-
-    
 }
 
 #products1 {
@@ -45,7 +43,7 @@
     cursor: pointer; 
     box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.2); 
     margin: 15px; /* Adjusted margin for spacing */
-    transition: 0.2s ease; 
+    transition: .2s ease; 
 }
 
 /* Hover effect */
@@ -56,12 +54,10 @@
 #products1 .pro img {
     width: auto; /* Maintain aspect ratio */
     max-width:100%; /* Ensure images fit within the container */
-/*     border-radius: 20px; */
 }
 
 #products1 .pro .des {
-    text-align:start;
-    padding:10px;
+    text-align:start; 
 }
 
 /* Text styles */
