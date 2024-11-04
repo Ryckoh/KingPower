@@ -1341,7 +1341,7 @@ form a {
         justify-content: center; /* Center items on mobile */
     }
     #products1 .pro {
-        width: calc(47% - 20px); /* Increased width to allow for larger containers in pairs */
+        width: calc(45% - 20px); /* Increased width to allow for larger containers in pairs */
         min-height:auto; /* Allow height to adjust based on content */
         margin-bottom:17px; /* Add space between items */
         position: relative; /* Ensure positioning context for cart button */
