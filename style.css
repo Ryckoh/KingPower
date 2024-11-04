@@ -1334,4 +1334,21 @@ form a {
         height: 360px;
     }
 }
+
+/* Responsive adjustments for mobile view */
+@media (max-width:799px) {
+    #products1 .pro-container {
+        justify-content: center; /* Center items on mobile */
+    }
+    #products1 .pro {
+        width: calc(47% - 20px); /* Increased width to allow for larger containers in pairs */
+        min-height:auto; /* Allow height to adjust based on content */
+        margin-bottom:17px; /* Add space between items */
+        position: relative; /* Ensure positioning context for cart button */
+    }
+    #products1 .pro .cart {
+        bottom :10px; /* Ensure visibility on mobile */
+        right :10px;
+    }
+}
   
