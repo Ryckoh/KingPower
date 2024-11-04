@@ -106,7 +106,7 @@
      }
      #products1 .pro {
          width: calc(45% - 20px); /* Increase width to allow for larger containers in pairs */
-         min-height:auto; /* Allow height to adjust based on content */
+         min-height: 10px; /* Allow height to adjust based on content */
          margin-bottom:15px; /* Add space between items */
          position: relative; /* Ensure positioning context for cart button */
      }
