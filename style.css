@@ -39,7 +39,7 @@
 #products1 .pro {
     width: calc(23% - 20px); /* Default for desktop view */
     min-height: 250px; 
-    padding: 10px 12px; 
+    padding: 10px; 
     border: 1px solid #cce7d0; 
     border-radius: 25px; 
     cursor: pointer; 
