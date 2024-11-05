@@ -253,7 +253,7 @@ body {
     padding: top 7px;
     font-size: 15px;
     font-weight: 700;
-    color: #088178
+    color: pink
 }
 
 #products1 .pro .cart {
@@ -263,8 +263,8 @@ body {
     border-radius: 50px;
     background-color: #ebf6ea;
     font-weight: 500;
-    color: #088178;
-    border: 1px solid #cce7d0;
+    color: pink;
+    border: 1px solid white;
     position: absolute;
     bottom: 20px;
     right: 10px;
@@ -455,7 +455,6 @@ body {
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
 }
-
 
 /* shop page */
 #page-header {
